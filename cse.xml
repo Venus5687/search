@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomSearchEngine id="5454544a15d7540e0" creator="015495324437024094294" language="en" top_refinements="-1" safesearch="true" cx_id="5454544a15d7540e0" last_update_time_millis="1671379660052" autocompletions="true">
+  <Title>Custom</Title>
+  <Description>My first custom search.</Description>
+  <Context>
+    <BackgroundLabels>
+      <Label name="_include_" mode="BOOST"/>
+      <Label name="_exclude_" mode="ELIMINATE"/>
+    </BackgroundLabels>
+  </Context>
+  <LookAndFeel code="4" resultsurl="" element_layout="8" theme="2" custom_theme="true" url_length="full" enable_cse_thumbnail="true" promotion_url_length="full" font="7">
+    <Logo url="https://github.com/Venus5687/search/blob/master/logo.png?raw=true" destination="https://venus5687.github.io/search" height="40"/>
+    <Colors url="#0B8043" background="#000000" border="#0B8043" title="#FFFFFF" text="#FFFFFF" visited="#9C27B0" title_hover="#FFFFFF" title_active="#FFFFFF"/>
+    <Promotions title_color="#FFFFFF" title_visited_color="#EEEEEE" url_color="" background_color="#000000" border_color="#9E9E9E" snippet_color="#FFFFFF" title_hover_color="#9E9E9E" title_active_color="#FFFFFF"/>
+    <SearchControls input_border_color="#000000" button_border_color="" button_background_color="#000000" tab_border_color="#FFFFFF" tab_background_color="#000000" tab_selected_border_color="#0B8043" tab_selected_background_color="#000000" button_icon_color=""/>
+    <Results border_color="#EEEEEE" border_hover_color="" background_color="#000000" background_hover_color="#000000"/>
+    <Widget query_parameter_name="q"/>
+  </LookAndFeel>
+  <ImageSearchSettings enable="true" layout="2"/>
+  <sort_by_keys label="Relevance" key=""/>
+  <sort_by_keys label="Date" key="date"/>
+  <cse_advance_settings>
+    <web_search_options result_set_size="0" enable_history="true">
+      <search_restrict_args lr="" cr="" gl="" filter="0" sort="" as_siteseach="" as_oq=""/>
+    </web_search_options>
+  </cse_advance_settings>
+</CustomSearchEngine>
